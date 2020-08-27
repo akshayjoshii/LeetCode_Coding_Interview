@@ -9,10 +9,12 @@
 | Positive Negative Value Pair | [Solution](Pos_Neg_Array.py)    |
 | Kadane Algorithm  | [Solution](kadane.py)   |
 
+
+
 ## Contributors
 
-| Name  | University | Profile |
-| ------------- | ------------- | ------------- |
-| Akshay Joshi  | Universität des Saarlandes, Saarbrücken | [GITHUB](https://github.com/akshayjoshii)    |
-| Poojitha Vijayanarasimha | Frankfurt University of Applied Sciences, Frankfurt am Main | [GITHUB](https://github.com/Poojithavijay)    |
-| Puneeth Kouloorkar | Freie Universität, Berlin | [GITHUB](https://github.com/PuneethKouloorkar)   |
+| Name  | Program | University | Profile |
+| ------------- | ------------- | ------------- | ------------- |
+| Akshay Joshi  | M. Sc. Data Science & Artificial Intelligence | Universität des Saarlandes, Saarbrücken | [GITHUB](https://github.com/akshayjoshii)    |
+| Poojitha Vijayanarasimha | M. Sc. High Integrity Systems | Frankfurt University of Applied Sciences, Frankfurt am Main | [GITHUB](https://github.com/Poojithavijay)    |
+| Puneeth Kouloorkar | M. Sc. Computational Sciences | Freie Universität, Berlin | [GITHUB](https://github.com/PuneethKouloorkar)   |

@@ -11,6 +11,8 @@
 
 ## Contributors
 
+| Name  | University | Profile |
+| ------------- | ------------- | ------------- |
 | Akshay Joshi  | Universität des Saarlandes, Saarbrücken | [GITHUB](https://github.com/akshayjoshii)    |
 | Poojitha Vijayanarasimha | Frankfurt University of Applied Sciences, Frankfurt am Main | [GITHUB](https://github.com/Poojithavijay)    |
 | Puneeth Kouloorkar | Freie Universität, Berlin | [GITHUB](https://github.com/PuneethKouloorkar)   |

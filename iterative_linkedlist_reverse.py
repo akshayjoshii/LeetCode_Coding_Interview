@@ -1,5 +1,7 @@
 from copy import deepcopy
 
+# Complexity: O(n)
+
 # Constructor to create a node
 class node:
     def __init__(self, data):

@@ -10,6 +10,7 @@
 | Kadane Algorithm  | [Solution](kadane.py) |
 | Iterative Linkedlist Reversal | [Solution](iterative_linkedlist_reverse.py) |
 | String/Character Reversal Ops | [Solution](reverse_words_string.py) |
+| Detect Identical Trees | [Solution](identical_trees.py) |
 
 
 ## Contributors

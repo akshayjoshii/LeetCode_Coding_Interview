@@ -1,4 +1,4 @@
-from copy import deepcopy
+from copy import copy, deepcopy
 
 # Complexity: O(n)
 
@@ -17,7 +17,7 @@ class LinkedList:
         prev = None
         current = self.head 
         try:
-            while(current is not None): 
+            while(current != None): 
                 next = current.next 
                 current.next = prev 
                 prev = current
@@ -50,6 +50,7 @@ if __name__ == '__main__':
 
     # Create a copy of the linkedlist object to demonstrate reverse operation
     reverse_linked_list = deepcopy(linkedlist)
+
 
     print("The original Linked List is:") 
     linkedlist.printlist()
